@@ -151,3 +151,7 @@ python main.py --dataset YourDataset --data_dir /path/to/data --epochs 20 --batc
 ```
 
 ### 7. Citation
+If you find our codes useful, please consider citing our work: 
+```
+Fan, X., Liu, J., Yang, Y. et al. scGraphformer: unveiling cellular heterogeneity and interactions in scRNA-seq data using a scalable graph transformer network. Commun Biol 7, 1463 (2024). https://doi.org/10.1038/s42003-024-07154-w
+```
