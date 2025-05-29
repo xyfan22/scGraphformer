@@ -69,6 +69,10 @@ pip install -r requirements.txt
 ```
 
 ## 3. Data Preparation
+We have uploaded all of datasets within this folder:
+
+https://mycuhk-my.sharepoint.com/:f:/g/personal/1155187720_link_cuhk_edu_hk/EqVfLiFZDApEtel_fLOX_8gBCC83cvuz7o4UgZrAfEtFyw
+
 The scGraphformer model asj
 - anndata stored in h5ad file
 - Data preprocessing steps
